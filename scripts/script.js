@@ -1,6 +1,6 @@
 
 var linkCheckout = "LINK DO CHECKOUT AQUI" // Alterar link checkout caso va colocar algum jogo como
-var linkAffiliado = "LINK DE AFILIADO" // Alterar link affiliado 
+var linkAffiliado = "https://playpix.com/affiliates/?btag=1263593_l239529" // Alterar link affiliado 
 var iframeUrl = "LINK DO SEU TUTORIAL AQUI" // Alterar link tutorial
 var bannerUrl = "utils/banner.png" // Alterar link "LINK DO BANNER PRINCIPAL" PADRAO => (  "utils/banner.png"  )
 var mainMsg = "Garanta seu bônus, registre-se deposite no minimo R$50 e receba o mesmo valor do deposito como BÔNUS para apostar" // Alterar mensagem do texto principal 
