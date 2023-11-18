@@ -22,28 +22,28 @@ const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   },
   {
     game: "Aviator",
-    pro: false, // Se quiser que o jgoo seja pro deixe assim = false
+    pro: true, // Se quiser que o jgoo seja pro deixe assim = false
     id: "2",
   },
   {
     game: "Mines",
-    pro: false,
+    pro: true,
     id: "3",
   },
   
   {
     game: "Roulette",
-    pro: false,
+    pro: true,
     id: "4",
   },
   {
     game: "Spaceman",
-    pro: false,
+    pro: true,
     id: "5",
   },
   {
     game: "Penalty",
-    pro: false,
+    pro: true,
     id: "6",
   },
 ]
