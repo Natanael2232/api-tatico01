@@ -33,7 +33,7 @@ const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   
   {
     game: "Roulette",
-    pro: true,
+    pro: false,
     id: "4",
   },
   {
